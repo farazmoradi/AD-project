@@ -1,1 +1,0 @@
-# Classification-of-Alzheimer-s-Disease-Paper
